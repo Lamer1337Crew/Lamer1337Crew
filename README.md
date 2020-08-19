@@ -1,3 +1,4 @@
+<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <h1 align="center">Hi 👋, I'm VanGans</h1>
 <h3 align="center">A passionate frontend and backend developer from Indonesian</h3>
 
