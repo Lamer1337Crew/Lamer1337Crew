@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [usi-bot](https://github.com/Lamer1337Crew/usi-bot)
 
-- 🌱 I’m currently learning **Framework, Bot, Web Dev**
+- 🌱 I’m currently learning **Framework, Discord Bot, And SA:MP Script**
 
 - 👯 I’m looking to collaborate on [SadCode](https://github.com/sadcode-org)
 
