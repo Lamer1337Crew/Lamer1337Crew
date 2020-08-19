@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VanGans</h1>
-<h3 align="center">A passionate frontend developer from Indonesian</h3>
+<h3 align="center">A passionate frontend and backend developer from Indonesian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamer1337crew" alt="lamer1337crew" /> </p>
 
