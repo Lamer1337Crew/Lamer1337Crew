@@ -26,7 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamer1337crew&show_icons=true" alt="lamer1337crew" /></p>
 
 <p align="center">
-<a href="https://fb.com/nirvan zakuza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nirvan zakuza" height="30" width="30" /></a>
-<a href="https://instagram.com/irvan al-mahdi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="irvan al-mahdi" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/sadcode official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sadcode official" height="30" width="30" /></a>
+<a href="https://fb.com/nirvan zakuza" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="nirvan zakuza" height="30" width="30" /></a>
+<a href="https://instagram.com/irvan al-mahdi" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="irvan al-mahdi" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/sadcode official" target="blank"><img align="center" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="sadcode official" height="30" width="30" /></a>
 </p>
