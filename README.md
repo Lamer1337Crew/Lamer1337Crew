@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamer1337crew" alt="lamer1337crew" /> </p>
 
-- 🔭 I’m currently working on [usi-bot](https://github.com/Lamer1337Crew/usi-bot)
+- 🔭 I’m currently working on [Yamashiro](https://github.com/Lamer1337Crew/Yamashiro)
 
 - 🌱 I’m currently learning **Framework, Discord Bot, And SA:MP Script**
 
