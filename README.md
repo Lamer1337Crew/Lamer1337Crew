@@ -36,6 +36,6 @@
 
   Visitor count<br>
 
-  <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
+  <img src="https://profile-counter.glitch.me/Lamer1337Crew/count.svg" />
 
 </p
