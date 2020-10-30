@@ -32,3 +32,10 @@
 <a href="https://instagram.com/irvan al-mahdi" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="irvan al-mahdi"/></a>
 <a href="https://www.youtube.com/c/sadcode official" target="blank"><img align="center" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="sadcode official"/></a>
 </p>
+<p align="center"> 
+
+  Visitor count<br>
+
+  <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
+
+</p
